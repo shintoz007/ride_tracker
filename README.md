@@ -12,3 +12,7 @@ https://xmruibi.gitbooks.io/interview-preparation-notes/content/OOD/DesignExampl
 Deck of cards
 Chess
 Lift
+
+
+
+http://codebuild.blogspot.in/search/label/Object%20Oriented%20Design
