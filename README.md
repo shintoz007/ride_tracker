@@ -9,7 +9,9 @@ http://codebuild.blogspot.in/2015/01/algorithms-explained-minesweeper-game.html
 
 https://xmruibi.gitbooks.io/interview-preparation-notes/content/OOD/DesignExamples/ParkingLot.html
 
-Deck of cards
+<h3>Deck of cards</h3>
+<p>https://www.cs.duke.edu/csed/ap/cards/cardstuff.pdf</p>
+<p>http://www.cs.duke.edu/csed/ap/cards/</p>
 Chess
 Lift
 
